@@ -714,3 +714,14 @@ section.main .content .markdown tbody tr:nth-child(odd) td,
 section.main .content .markdown tbody tr:nth-child(odd) th {
   background-color: #f7f7f7;
 }
+code.has-jax {font: inherit;
+              font-size: 100%;
+              background: inherit;
+              border: inherit;
+              color: #515151;
+              /*color: #111 !important;*/
+
+            }
+/*.MathJax_Display {
+  color: #FFF !important;
+}*/
