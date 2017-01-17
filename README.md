@@ -1,3 +1,17 @@
+# TODOS
+
+- add seperate template for books
+    - consisting of review and summary section
+
+- add categories/tags functionality
+
+## To consider
+
+- section for notes/drawings/comics
+    - this entails some framework of being able to annote files interact and eventually download 
+        - http://rawgit.com/MrRio/jsPDF/master/
+        - https://github.com/MrRio/jsPDF
+
 # Cocoa
 
 A consistent and responsive [Hugo](http://gohugo.io) [theme](https://github.com/spf13/hugoThemes/) with clean typography. The primary typefaces are Open Sans, Raleway, and Ubuntu Mono.
